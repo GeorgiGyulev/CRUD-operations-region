@@ -1,0 +1,14 @@
+[
+  {
+    "region_id": "11d13bd2-0046-46f1-9485-5184da4f7929",
+    "name": "sampleRegion",
+    "countries": ["USA", "Bulgaria", "Mexico"],
+    "isActive": true
+  },
+  {
+    "region_id": "e98717b8-3627-4e29-af35-50b129f7535c",
+    "name": "anotherRegion",
+    "countries": ["Canada", "Germany", "Australia"],
+    "isActive": false
+  }
+]
